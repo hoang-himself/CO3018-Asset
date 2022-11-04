@@ -1,0 +1,91 @@
+<mxfile host="65bd71144e">
+    <diagram id="vkiCDbPXD9WB4NuMmzGT" name="Page-1">
+        <mxGraphModel dx="1060" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="45" y="340" width="760" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="12">
+                    <mxGeometry width="760" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="User Auth API" style="rounded=0;whiteSpace=wrap;html=1;" parent="12" vertex="1">
+                    <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Book Data API" style="rounded=0;whiteSpace=wrap;html=1;" parent="12" vertex="1">
+                    <mxGeometry x="170" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Delivery API" style="rounded=0;whiteSpace=wrap;html=1;" parent="12" vertex="1">
+                    <mxGeometry x="320" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Bill API" style="rounded=0;whiteSpace=wrap;html=1;" parent="12" vertex="1">
+                    <mxGeometry x="470" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Payment API" style="rounded=0;whiteSpace=wrap;html=1;" parent="12" vertex="1">
+                    <mxGeometry x="620" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="130" y="70" width="630" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="13" vertex="1">
+                    <mxGeometry width="630" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="User UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="13" vertex="1">
+                    <mxGeometry x="60" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Store UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="13" vertex="1">
+                    <mxGeometry x="255" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Library UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="13" vertex="1">
+                    <mxGeometry x="450" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="520" width="260" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Create User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Login User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Auth Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="520" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Edit User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Delete User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="user_io_lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="700" width="245" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="770" width="245" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="411" y="880" width="147.95" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="930" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="930" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="bill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="960" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="990" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="960" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="borrow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="990" width="60" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
